@@ -1,5 +1,11 @@
 # @backstage/plugin-github-actions
 
+## 0.4.27
+
+### Patch Changes
+
+- 89bd772b00: Show empty state only when workflow API call has completed
+
 ## 0.4.26
 
 ### Patch Changes
