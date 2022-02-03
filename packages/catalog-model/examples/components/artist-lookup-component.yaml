@@ -31,6 +31,8 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
+  owner: 
+    - teama
+    - teamb
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
